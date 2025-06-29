@@ -1,5 +1,0 @@
-src/main/java/cl/duoc/ejemplo/dsy2206/semana5/rabbitmqavanzado/service/PriceChangeMonitoringService.java
-src/main/java/cl/duoc/ejemplo/dsy2206/semana5/rabbitmqavanzado/service/PriceChangeNotificationService.java
-src/main/java/cl/duoc/ejemplo/dsy2206/semana5/rabbitmqavanzado/dto/PriceChangeEventDTO.java
-src/main/java/cl/duoc/ejemplo/dsy2206/semana5/rabbitmqavanzado/service/impl/PriceChangeNotificationServiceImpl.java
-src/main/java/cl/duoc/ejemplo/dsy2206/semana5/rabbitmqavanzado/controller/PriceMonitoringController.java
